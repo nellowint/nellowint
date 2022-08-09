@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hello World! I'm Wellinton Vieira
 
-<!--
-**wellintonvieira/wellintonvieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm currently studying Kotlin and Java programming languages to develop native Android mobile apps.
 
-Here are some ideas to get you started:
+<div align="center"><br>
+  <a href="https://github.com/wellintonvieira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wellintonvieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellintonvieira&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 
+
+<div style="display: inline_block" align="center"><br>
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+</div>
